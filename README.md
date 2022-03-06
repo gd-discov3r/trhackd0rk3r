@@ -3,6 +3,6 @@
 Dorker with sqli/lfi,/... Scan<br>
 Installation:<br>
 <p>git clone https://github.com/trhacknon/trhackd0rk3r
-<p><strong>python <trhackd0rk3r.py 
+<p><strong>python trhackd0rk3r.py 
 Wait the result
 
