@@ -1,5 +1,5 @@
 # trhackd0rk3r.py
-(https://github.com/trhacknon/trhackd0rk3r/blob/main/anontrhack.png) 
+https://github.com/trhacknon/trhackd0rk3r/blob/main/anontrhack.png 
 Dorker with sqli/lfi,/... Scan
 Installation:
 git clone https://github.com/trhacknon/trhackd0rk3r
